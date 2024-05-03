@@ -1,0 +1,28 @@
+{
+  "item.tutorialmod.pew_pew" : "GUN",
+  "item.tutorialmod.steel" : "Steel",
+  "creativetab.tutorial_tab" : "GUNS",
+  "block.tutorialmod.block_of_steel" :  "Block of Steal",
+  "item.tutorialmod.raw_steel": "Raw Steel",
+  "item.tutorialmod.carbon": "Carbon",
+  "item.tutorialmod.sulfur": "Sulfur",
+  "block.tutorialmod.block_of_sulfur" :  "Block of Sulfur",
+  "block.tutorialmod.sulfur_ore" : "Sulfur Ore",
+  "block.tutorialmod.cobalt_ore": "Cobalt Ore",
+  "block.tutorialmod.cobalt_block": "Cobalt Block",
+  "item.tutorialmod.cobalt": "Cobalt",
+  "item.tutorialmod.raw_cobalt": "Raw Cobalt",
+  "block.tutorialmod.zinc_ore": "Zinc Ore",
+  "block.tutorialmod.zinc_block": "Zinc Block",
+  "item.tutorialmod.zinc": "Zinc",
+  "item.tutorialmod.raw_zinc": "Raw Zinc",
+  "block.tutorialmod.lead_ore": "Lead Ore",
+  "block.tutorialmod.lead_block": "Lead Block",
+  "item.tutorialmod.lead": "Lead",
+  "item.tutorialmod.raw_lead": "Raw Lead",
+  "block.tutorialmod.raw_lead_block": "Raw Lead Block",
+  "block.tutorialmod.raw_cobalt_block": "Raw Cobalt Block",
+  "block.tutorialmod.raw_zinc_block": "Raw Zinc Block"
+
+
+}

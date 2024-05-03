@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 10,
+  "ingredient": {
+    "item": "tutorialmod:cobalt_ore"
+  },
+  "result": "tutorialmod:cobalt"
+}

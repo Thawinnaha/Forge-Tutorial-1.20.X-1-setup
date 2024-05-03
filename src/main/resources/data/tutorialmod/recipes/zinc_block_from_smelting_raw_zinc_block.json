@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 10,
+  "ingredient": {
+    "item": "tutorialmod:raw_zinc_block"
+  },
+  "result": "tutorialmod:zinc_block"
+}

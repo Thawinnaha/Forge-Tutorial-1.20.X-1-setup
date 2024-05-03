@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 10,
+  "ingredient": {
+    "item": "tutorialmod:lead_ore"
+  },
+  "result": "tutorialmod:lead"
+}
